@@ -1,0 +1,159 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(174, 174, 174);
+    text-align: left;
+    
+
+}
+
+ul{
+    list-style: none;
+}
+
+p {
+    color: rgb(95, 94, 94);
+
+
+}
+
+.container {
+    background-color: rgb(245, 246, 248);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.row {
+    margin-bottom: -1.4%;
+}
+
+
+/* Left - section */
+
+hr {
+    margin: 1% 0 1% 0;
+    border-color: rgb(196, 196, 196);
+    border-width: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    
+}
+
+
+.left-section {
+    padding-left: 0%;
+    margin-left: -0.1%;
+    height: 100%;
+    width: 100%;
+}
+
+.left-background {
+    background-color: rgb(192, 151, 115);
+}
+
+
+.image img {
+    height: 100%;
+    width: 98%;
+}
+
+.name {
+    padding: 4%;
+    
+}
+
+.fistname {
+    
+    
+}
+
+.lastname {
+    color: rgb(95, 94, 94);
+    font-weight: 300;
+}
+
+.left-gray-section {
+    background-color: rgb(58, 63, 67);
+    margin-right: 2%;
+}
+
+.contacts {
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    background-color: rgb(58, 63, 67);
+    
+    color: rgb(150, 150, 150);
+    padding-top: 20%;
+    padding-right: 20px;
+    padding-bottom: 20%;
+
+}
+
+.certificate {
+    
+    color: rgb(150, 150, 150);
+    padding: 20% 5% 20% 15%;
+    
+}
+
+.social_link {
+    
+    
+    color: white;
+    padding: 20% 5% 20% 15%;
+}
+
+/* Right - section */
+
+.overview {
+    padding: 2.5%;
+    text-align: justify;
+}
+
+
+/* project -section */
+
+.projcect {
+    padding: 1% 0%;
+}
+
+.project-sidebar{
+    background-color: rgb(192, 151, 115);
+}
+
+.project-sidebar1 {
+    margin-top: 30%;
+    color: #000;
+}
+
+.project-sidebar2 {
+    margin-top: 180%;
+    color: #000;
+}
+
+.project-contect {
+    text-align: justify;
+}
+
+/* skills - section */
+
+.skills {
+    margin-top: 3%;
+    padding-right: 2%;
+}
+
+.progress {
+    height: .2rem;
+}
+
+.progress-bar {
+    background-color: rgb(192, 151, 115);
+
+}
+
+/* Education section */
+
+.education {
+    padding: 3% 0%;
+}
